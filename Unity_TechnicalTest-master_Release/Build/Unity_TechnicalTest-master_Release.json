@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Unity_TechnicalTest",
+"dataUrl": "Unity_TechnicalTest-master_Release.data.unityweb",
+"wasmCodeUrl": "Unity_TechnicalTest-master_Release.wasm.code.unityweb",
+"wasmFrameworkUrl": "Unity_TechnicalTest-master_Release.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
